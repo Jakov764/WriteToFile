@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\bin\Debug\cvekŠpraljaJakovWriteToFile.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\bin\Debug\cvekŠpraljaJakovWriteToFile.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\bin\Debug\cvekŠpraljaJakovWriteToFile.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\obj\Debug\cvekŠpraljaJakovWriteToFile.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\obj\Debug\cvekŠpraljaJakovWriteToFile.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWriteToFile\cvekŠpraljaJakovWriteToFile\obj\Debug\cvekŠpraljaJakovWriteToFile.pdb
